@@ -1,0 +1,57 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="NewTv超级电影「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv超级电影「IPV6」.png",NewTv超级电影「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-name="NewTv超级电视剧「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv超级电视剧「IPV6」.png",NewTv超级电视剧「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-name="NewTv超级体育「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv超级体育「IPV6」.png",NewTv超级体育「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-name="NewTv超级综艺「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv超级综艺「IPV6」.png",NewTv超级综艺「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-name="NewTv金牌综艺「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv金牌综艺「IPV6」.png",NewTv金牌综艺「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-name="NewTv东北热剧「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv东北热剧「IPV6」.png",NewTv东北热剧「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-name="NewTv精品萌宠「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv精品萌宠「IPV6」.png",NewTv精品萌宠「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+#EXTINF:-1 tvg-name="NewTv哒啵电竞「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv哒啵电竞「IPV6」.png",NewTv哒啵电竞「IPV6」
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/index.m3u8
+#EXTINF:-1 tvg-name="NewTv哒啵赛事「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv哒啵赛事「IPV6」.png",NewTv哒啵赛事「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-name="NewTv欢乐剧场「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv欢乐剧场「IPV6」.png",NewTv欢乐剧场「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-name="NewTv黑莓动画「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv黑莓动画「IPV6」.png",NewTv黑莓动画「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-name="NewTv黑莓电影「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv黑莓电影「IPV6」.png",NewTv黑莓电影「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 tvg-name="NewTv怡伴健康「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv怡伴健康「IPV6」.png",NewTv怡伴健康「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1986735481_995129881/ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
+#EXTINF:-1 tvg-name="NewTv潮妈辣婆「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv潮妈辣婆「IPV6」.png",NewTv潮妈辣婆「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1705588260_46164741/ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
+#EXTINF:-1 tvg-name="NewTv军旅剧场「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv军旅剧场「IPV6」.png",NewTv军旅剧场「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw1807611386_-262631246/ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
+#EXTINF:-1 tvg-name="NewTv中国功夫「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv中国功夫「IPV6」.png",NewTv中国功夫「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1934355864_2070028581/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
+#EXTINF:-1 tvg-name="NewTv农业致富「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv农业致富「IPV6」.png",NewTv农业致富「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2105966330_1690115505/ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
+#EXTINF:-1 tvg-name="NewTv动作电影「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv动作电影「IPV6」.png",NewTv动作电影「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw2169742343_-422728889/ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
+#EXTINF:-1 tvg-name="NewTv家庭剧场「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv家庭剧场「IPV6」.png",NewTv家庭剧场「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw3441504651_1879058580/ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
+#EXTINF:-1 tvg-name="NewTv惊悚悬疑「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv惊悚悬疑「IPV6」.png",NewTv惊悚悬疑「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2482771376_951312812/ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
+#EXTINF:-1 tvg-name="NewTv武博世界「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv武博世界「IPV6」.png",NewTv武博世界「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw2554338791_49940138/ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
+#EXTINF:-1 tvg-name="NewTv炫舞未来「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv炫舞未来「IPV6」.png",NewTv炫舞未来「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2582593423_1721070986/ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
+#EXTINF:-1 tvg-name="NewTv爱情喜剧「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv爱情喜剧「IPV6」.png",NewTv爱情喜剧「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2778199896_-991379679/ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
+#EXTINF:-1 tvg-name="NewTv精品体育「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv精品体育「IPV6」.png",NewTv精品体育「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
+#EXTINF:-1 tvg-name="NewTv精品大剧「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv精品大剧「IPV6」.png",NewTv精品大剧「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2817459161_-1430429466/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
+#EXTINF:-1 tvg-name="NewTv军事评论「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv军事评论「IPV6」.png",NewTv军事评论「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3373254713_-1111569189/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
+#EXTINF:-1 tvg-name="NewTv精品记录「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv精品记录「IPV6」.png",NewTv精品记录「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2837435881_530071425/ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
+#EXTINF:-1 tvg-name="NewTv明星大片「IPV6」" tvg-logo="https://live.fanmingming.com/tv/NewTv明星大片「IPV6」.png",NewTv明星大片「IPV6」
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
