@@ -11,14 +11,6 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT爱怀旧「IPV6」" tvg-logo="https://live.fanmingming.com/tv/iHOT爱怀旧「IPV6」.png",iHOT爱怀旧「IPV6」
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="iHOT爱极限「IPV6」" tvg-logo="https://live.fanmingming.com/tv/iHOT爱极限「IPV6」.png",iHOT爱极限「IPV6」
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="iHOT爱家庭「IPV6」" tvg-logo="https://live.fanmingming.com/tv/iHOT爱家庭「IPV6」.png",iHOT爱家庭「IPV6」
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="iHOT爱江湖「IPV6」" tvg-logo="https://live.fanmingming.com/tv/iHOT爱江湖「IPV6」.png",iHOT爱江湖「IPV6」
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="iHOT爱解密「IPV6」" tvg-logo="https://live.fanmingming.com/tv/iHOT爱解密「IPV6」.png",iHOT爱解密「IPV6」
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT爱经典「IPV6」" tvg-logo="https://live.fanmingming.com/tv/iHOT爱经典「IPV6」.png",iHOT爱经典「IPV6」
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT爱科幻「IPV6」" tvg-logo="https://live.fanmingming.com/tv/iHOT爱科幻「IPV6」.png",iHOT爱科幻「IPV6」
@@ -29,24 +21,14 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT爱历史「IPV6」" tvg-logo="https://live.fanmingming.com/tv/iHOT爱历史「IPV6」.png",iHOT爱历史「IPV6」
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="iHOT爱猎奇「IPV6」" tvg-logo="https://live.fanmingming.com/tv/iHOT爱猎奇「IPV6」.png",iHOT爱猎奇「IPV6」
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT爱旅行「IPV6」" tvg-logo="https://live.fanmingming.com/tv/iHOT爱旅行「IPV6」.png",iHOT爱旅行「IPV6」
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="iHOT爱美食「IPV6」" tvg-logo="https://live.fanmingming.com/tv/iHOT爱美食「IPV6」.png",iHOT爱美食「IPV6」
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT爱奇谈「IPV6」" tvg-logo="https://live.fanmingming.com/tv/iHOT爱奇谈「IPV6」.png",iHOT爱奇谈「IPV6」
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT爱青春「IPV6」" tvg-logo="https://live.fanmingming.com/tv/iHOT爱青春「IPV6」.png",iHOT爱青春「IPV6」
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT爱赛车「IPV6」" tvg-logo="https://live.fanmingming.com/tv/iHOT爱赛车「IPV6」.png",iHOT爱赛车「IPV6」
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="iHOT爱时尚「IPV6」" tvg-logo="https://live.fanmingming.com/tv/iHOT爱时尚「IPV6」.png",iHOT爱时尚「IPV6」
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="iHOT爱世界「IPV6」" tvg-logo="https://live.fanmingming.com/tv/iHOT爱世界「IPV6」.png",iHOT爱世界「IPV6」
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="iHOT爱探索「IPV6」" tvg-logo="https://live.fanmingming.com/tv/iHOT爱探索「IPV6」.png",iHOT爱探索「IPV6」
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT爱体育「IPV6」" tvg-logo="https://live.fanmingming.com/tv/iHOT爱体育「IPV6」.png",iHOT爱体育「IPV6」
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT爱玩具「IPV6」" tvg-logo="https://live.fanmingming.com/tv/iHOT爱玩具「IPV6」.png",iHOT爱玩具「IPV6」
@@ -55,7 +37,5 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT爱幼教「IPV6」" tvg-logo="https://live.fanmingming.com/tv/iHOT爱幼教「IPV6」.png",iHOT爱幼教「IPV6」
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="iHOT爱娱乐「IPV6」" tvg-logo="https://live.fanmingming.com/tv/iHOT爱娱乐「IPV6」.png",iHOT爱娱乐「IPV6」
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="iHOT爱院线「IPV6」" tvg-logo="https://live.fanmingming.com/tv/iHOT爱院线「IPV6」.png",iHOT爱院线「IPV6」
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
