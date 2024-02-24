@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="F01" tvg-name="HBO1" group-title="HBO",HBO原創鉅獻
+http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+#EXTINF:-1 tvg-id="F02" tvg-name="HBO2" group-title="HBO",HBO強檔鉅獻
+http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+#EXTINF:-1 tvg-id="F03" tvg-name="HBO3" group-title="HBO",HBO温馨家庭
+http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+
